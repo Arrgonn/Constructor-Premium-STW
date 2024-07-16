@@ -17,3 +17,7 @@ This Go program modifies specific byte sequences in a .pak file. It can be used 
    ```go
    // Example path
    filePath := "C:\\Program Files\\Epic Games\\Fortnite\\FortniteGame\\Content\\Paks\\pakchunk10-WindowsClient_s2.ucas"
+
+## Crédits
+
+- [Hubo](https://discord.gg/N3M3Q9KRpc)
